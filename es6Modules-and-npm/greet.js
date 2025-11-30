@@ -1,1 +1,1 @@
-export function Greet(name){ return `Hello ${name} !`}
+export function Greet(name){ return `Hello ${name}!`}
